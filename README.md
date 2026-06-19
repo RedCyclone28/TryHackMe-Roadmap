@@ -59,7 +59,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
-- [ ] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+- [x] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
 - [ ] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
