@@ -79,7 +79,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
-- [ ] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
 ## Windows Fundamentals
 
