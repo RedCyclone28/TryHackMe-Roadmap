@@ -95,7 +95,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- [x] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 - [ ] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
