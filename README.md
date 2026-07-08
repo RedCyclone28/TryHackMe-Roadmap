@@ -105,7 +105,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 
-- [ ] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
+- [x] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 
 - [ ] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
 
