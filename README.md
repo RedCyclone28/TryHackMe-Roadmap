@@ -107,7 +107,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 
-- [ ] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
+- [x] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
 
 - [ ] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
