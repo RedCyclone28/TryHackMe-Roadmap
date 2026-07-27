@@ -115,7 +115,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
+- [x] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
 - [ ] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 
