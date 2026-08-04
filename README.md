@@ -121,7 +121,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
-- [ ] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
+- [x] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 
 - [ ] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
