@@ -127,7 +127,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
 
-- [ ] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
+- [x] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
 
 - [ ] [TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon)
 
