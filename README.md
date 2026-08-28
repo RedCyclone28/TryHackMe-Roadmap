@@ -139,7 +139,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
 
-- [ ] [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
+- [x] [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
 
 - [ ] [TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
 
