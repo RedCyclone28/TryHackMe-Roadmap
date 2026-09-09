@@ -143,7 +143,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
 
-- [ ] [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
+- [x] [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
 
 - [ ] [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
 
